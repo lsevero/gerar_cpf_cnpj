@@ -1,5 +1,5 @@
 package = "gerar_cpf_cnpj.lua"
-version = "scm-1"
+version = "0.1.0-1"
 source = {
    url = "https://github.com/lsevero/gerar_cpf_cnpj.lua"
 }
