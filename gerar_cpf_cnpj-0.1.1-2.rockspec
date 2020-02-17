@@ -1,5 +1,5 @@
 package = "gerar_cpf_cnpj"
-version = "0.1.1-1"
+version = "0.1.1-2"
 source = {
    url = "https://github.com/lsevero/gerar_cpf_cnpj/archive/v0.1.1.zip"
 }
