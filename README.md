@@ -13,5 +13,5 @@ print(gerar_cnpj_formatado())
 
 ## Install
 ```bash
-luarocks install gerar_cpf_cnpj.lua
+luarocks install gerar_cpf_cnpj
 ```
