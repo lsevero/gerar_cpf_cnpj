@@ -1,10 +1,10 @@
-package = "gerar_cpf_cnpj.lua"
-version = "0.1.0-1"
+package = "gerar_cpf_cnpj"
+version = "0.1.1-1"
 source = {
-   url = "https://github.com/lsevero/gerar_cpf_cnpj.lua"
+   url = "https://github.com/lsevero/gerar_cpf_cnpj"
 }
 description = {
-   homepage = "https://github.com/lsevero/gerar_cpf_cnpj.lua",
+   homepage = "https://github.com/lsevero/gerar_cpf_cnpj",
    license = "The Unlicense"
 }
 dependencies = {
