@@ -4,11 +4,16 @@ source = {
    url = "https://github.com/lsevero/gerar_cpf_cnpj"
 }
 description = {
+   summary = "require \"gerar_cpf_cnpj\"",
+   detailed = [[
+##Usage
+```lua
+require "gerar_cpf_cnpj"]],
    homepage = "https://github.com/lsevero/gerar_cpf_cnpj",
-   license = "The Unlicense"
+   license = "The unlicense"
 }
 dependencies = {
-   "lua >= 5.1"
+   "lua >= 5.1, < 5.4"
 }
 build = {
    type = "builtin",
